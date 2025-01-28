@@ -4,6 +4,8 @@ This repository contains all deliverables on the Sentiment analysis project for 
 ## Overview
 This project involves building a model that can classify each review as positive or negative based on the text content. The dataset contains reviews on an Amazon product and is publicly for download on this repo. 
 
+## App
+[app](https://mood-checker.streamlit.app/)
 ## Steps
 1. **Data Import:**
    - The dataset was loaded into a Jupyter notebook and necessary libraries were imported. You may be required to install wordcloud and nltk if not already on your environment.
